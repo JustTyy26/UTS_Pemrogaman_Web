@@ -1,0 +1,23 @@
+Nama: Muhammad Fathi Farhat
+Kelas: IF22C
+NIM: 22416255201071
+
+Soal dan Jawaban UTS PEMWEB (1 dan 2)
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Jawab : 
+Framework, juga dikenal sebagai struktur kerja, digunakan dalam pengembangan aplikasi untuk membantu developer membuat aplikasi yang lebih efisien. Framwework, juga dikenal sebagai "rencana dasar", digunakan untuk memandu developer selama proses pengembangan aplikasi.
+Tujuan developer/pengembang adalah untuk memastikan bahwa aplikasi yang mereka bangun memiliki desain yang stabil dan sesuai, serta mematuhi aturan yang disepakati saat pembuatan aplikasi.
+
+2. Pertanyaan seputar projek
+a. Sebutkan tema proyek yang sedang digarap!
+Jawab: 
+Tema projek yang kami garap adalah klinik dengan scope reservasi dan rekam medis elektronik
+
+b. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+Jawab: 
+1.	Muhammad Fathi Farhat sebagai Programmer
+2.	Dewi Puspa Ningrum sebagai Penanggungjawab Laporan Projek
+3.	Indah Nirmala sebagai Penanggungjawab Database
+
+c. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Jawab: Jadi permasalahan yang kita dapat setelah survei di Klinik Citra Medika yang menyesuaikan tema klinik dengan scope registrasi/pendaftaran dan rekam medis elektronik. Bahwa masalah yang ada yaitu sistem rekam medis masih ditulis secara manual oleh staff klinik, jadi client meminta agar dibuatkan rekam medis elektronik/online agar staff klinik mudah mengakses data rekam medis tersebut di dalam aplikasi klinik berbasis web yang akan kami buatkan. Selain itu, registrasi/pendaftaran juga diperlukan untuk pendaftaran pasien melalui resepsionis di aplikasi klinik berbasis web tersebut.
